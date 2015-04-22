@@ -18,6 +18,7 @@ class Nodes {
 	Nodes<T> * previous;
 
 public:
+
 	Nodes(T in);
 	T getInfo();
 	bool getLinked();
